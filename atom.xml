@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://390517840.GitHub.io</id>
     <title>Jack Guo的小窝</title>
-    <updated>2020-06-18T08:14:10.288Z</updated>
+    <updated>2020-06-18T08:18:28.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://390517840.GitHub.io"/>
     <link rel="self" href="https://390517840.GitHub.io/atom.xml"/>
@@ -16,9 +16,8 @@
         <link href="https://390517840.GitHub.io/post/shou-ba-shou-jiao-ni-potplay-bo-fang-qi-diao-jiao-tu-wen-jiao-cheng/">
         </link>
         <updated>2020-06-18T07:50:51.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>   在PC端使用的这几款高清影音播放器中，要属PotPlaye最为常用了，不仅界面简洁，而且功能齐全，要比 MPC-HC 和 MPC-BE 更加人性化，但由于其糟糕的默认方案，使得绝大部分用户没有真正领略到它的强悍之处，仅沦为了一个简单的直播源播放工具。那么今天文娜就带大家一起来深度调教这款桀骜不驯的霹雳娇娃，让她真正发挥其应有的功效！
-   本篇文章将从“Potplayer及调教工具安装、PC端显卡设置、Potplayer选项设置、音视频解码器与字幕设置、4K电影视频下载渠道、直播源获取导入“这6个方面进行阐述，帮助大家层层揭开这款播放器的神秘面纱。
-</code></pre>
+        <content type="html"><![CDATA[<p>在PC端使用的这几款高清影音播放器中，要属PotPlaye最为常用了，不仅界面简洁，而且功能齐全，要比 MPC-HC 和 MPC-BE 更加人性化，但由于其糟糕的默认方案，使得绝大部分用户没有真正领略到它的强悍之处，仅沦为了一个简单的直播源播放工具。那么今天文娜就带大家一起来深度调教这款桀骜不驯的霹雳娇娃，让她真正发挥其应有的功效！</p>
+<p>本篇文章将从“Potplayer及调教工具安装、PC端显卡设置、Potplayer选项设置、音视频解码器与字幕设置、4K电影视频下载渠道、直播源获取导入“这6个方面进行阐述，帮助大家层层揭开这款播放器的神秘面纱。</p>
 <p>1，PotPlayer及调教工具安装<br>
 <img src="https://390517840.GitHub.io/post-images/1592467235385.png" alt="" loading="lazy"><br>
 首先我们来了解一下本次给大家提供的全套调教工具包，其中包括Potplayer播放器安装包、LAV Filters【分离/解码器】、madVR【视频渲染器】、xy-vsFilter【通用字幕插件】、xy-SubFilter【madVR专用字幕插】这5部分。<br>
